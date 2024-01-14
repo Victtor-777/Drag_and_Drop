@@ -61,3 +61,7 @@ ul li {
   color: #474747;
   font-size: 1.15rem;
 }
+
+.item.dragging :where(.details, i) {
+  opacity: 0;
+}
