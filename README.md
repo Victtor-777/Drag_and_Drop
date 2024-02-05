@@ -1,5 +1,5 @@
 <p>
-  <img src="./img/preview/preview.png" width="100%" />
+  <img src="./assets/img/preview.png" width="100%" />
 </p>
 
 # 🎭 Drag and Drop List
